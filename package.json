@@ -1,0 +1,23 @@
+{
+  "name": "typescript-project01_cli_number_guessing-game_by-zeeshanarish",
+  "version": "1.0.0",
+  "description": "This is a number guessing CLI game created by Zeeshan-Arish...",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeeshan_Arish",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
