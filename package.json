@@ -1,0 +1,19 @@
+{
+  "name": "typescript-project01_cli_number_guessing-game",
+  "version": "1.0.0",
+  "description": "This is a CLI number guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Zeeshan Khan",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
