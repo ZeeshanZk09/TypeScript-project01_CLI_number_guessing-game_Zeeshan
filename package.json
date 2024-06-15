@@ -1,9 +1,13 @@
 {
-  "name": "typescript-project01_cli_number_guessing-game",
+  "name": "@zeeshankhan09/typescript-project01_cli_number_guessing-game",
   "version": "1.0.0",
   "description": "This is a CLI number guessing game.",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
